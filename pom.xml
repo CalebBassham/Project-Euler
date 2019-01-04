@@ -13,6 +13,7 @@
         <module>0001</module>
         <module>0002</module>
         <module>0003</module>
+        <module>0004</module>
     </modules>
 
     <dependencies>
