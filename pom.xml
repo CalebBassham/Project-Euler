@@ -19,6 +19,7 @@
         <module>0007</module>
         <module>0008</module>
         <module>0009</module>
+        <module>0010</module>
     </modules>
 
     <dependencies>
